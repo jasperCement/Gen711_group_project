@@ -105,3 +105,9 @@ Wes McKinney. (2010). Data Structures for Statistical Computing in Python. In S.
 Weiss, S., Xu, Z. Z., Peddada, S., Amir, A., Bittinger, K., Gonzalez, A., Lozupone, C., Zaneveld, J. R., Vázquez-Baeza, Y., Birmingham, A., Hyde, E. R., & Knight, R. (2017). Normalization and microbial differential abundance strategies depend upon data characteristics. Microbiome, 5(1), 27. https://doi.org/10.1186/s40168-017-0237-y
  
 Wes McKinney. (2010). Data Structures for Statistical Computing in Python. In S. van der Walt & Jarrod Millman (Eds.), Proceedings of the 9th Python in Science Conference (pp. 51–56).
+
+
+MacKeigan, Paul W., et al. “Comparing Microscopy and DNA Metabarcoding Techniques for Identifying Cyanobacteria Assemblages across Hundreds of Lakes.” Harmful Algae, vol. 113, Mar. 2022, p. 102187, https://doi.org/10.1016/j.hal.2022.102187.
+
+
+Sini, Paola, et al. “Cyanobacteria, Cyanotoxins, and Neurodegenerative Diseases: Dangerous Liaisons.” International Journal of Molecular Sciences, vol. 22, no. 16, 1 Jan. 2021, p. 8726, www.mdpi.com/1422-0067/22/16/8726, https://doi.org/10.3390/ijms22168726.s
