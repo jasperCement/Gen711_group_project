@@ -1,4 +1,4 @@
-# Cyanobacteria thing
+# Cyanobacteria Population Analysis
 
 ## Jasper Clement, Anne Barto, Greg Billiel  
 
